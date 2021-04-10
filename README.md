@@ -11,32 +11,25 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-2020.1.16 PyTorch已经发布1.4的稳定版。
+[pytorch大版本更新的主要变动总结](pytorch-changelog.md)  当前版本 1.7
 
-Java bindings 被列入了支持列表，这几天准备出一个springboot的集成教程
+## QQ 5群 
 
-
-
-
-
-## QQ 4群 
-
-群号：884017356
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PyTorch Handbook 交流4群" title="PyTorch Handbook 交流4群"></a>
+群号：894059877
 
 扫描二维码
 
-![QR](Pytorch-Handbook-4.png) 
+![QR](Pytorch-Handbook-5.png) 
 
-[点击链接加入群聊 『PyTorch Handbook 交流4群』](//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb)
+[点击链接加入群聊 『PyTorch Handbook 交流5群』](//jq.qq.com/?_wv=1027&k=HI1gtcVa)
 
-1群(985896536)已满，2群(681980831) 3群(773681699)已满
+1群(985896536)已满，2群(681980831) 3群(773681699)已满  4群(884017356)已满 
 
 不要再加了
 
 ## 新福利
 
-公众账号除干货文章以外，还提供 阿里 快手 头条 美团 滴滴 等大厂 内推信息，有兴趣的大家可以关注：
+公众账号每日分享干货文章
 ![weixin QR](deephub.jpg) 
 
 
@@ -120,6 +113,10 @@ Java bindings 被列入了支持列表，这几天准备出一个springboot的�
 
 #### 第五节 多GPU并行训练
 [多GPU并行计算](chapter4/4.5-multiply-gpu-parallel-training.ipynb)
+
+#### 补充翻译文章：在PyTorch中使用DistributedDataParallel进行多GPU分布式模型训练
+[在PyTorch中使用DistributedDataParallel进行多GPU分布式模型训练](chapter4/distributeddataparallel)
+
 
 ### 第五章 应用
 #### 第一节 Kaggle介绍
